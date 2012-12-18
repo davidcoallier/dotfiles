@@ -1,0 +1,48 @@
+[submodule "bundle/Command-T"]
+	path = bundle/Command-T
+	url = git://github.com/wincent/Command-T.git
+[submodule "bundle/copy-as-rtf"]
+	path = bundle/copy-as-rtf
+	url = git://github.com/vim-scripts/copy-as-rtf.git
+[submodule "bundle/go.vim"]
+	path = bundle/go.vim
+	url = git://github.com/anzaika/go.vim.git
+[submodule "bundle/greplace.vim"]
+	path = bundle/greplace.vim
+	url = git://github.com/vim-scripts/greplace.vim.git
+[submodule "bundle/matchindent.vim"]
+	path = bundle/matchindent.vim
+	url = git://github.com/conormcd/matchindent.vim.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "bundle/phpcomplete.vim"]
+	path = bundle/phpcomplete.vim
+	url = git://github.com/shawncplus/phpcomplete.vim.git
+[submodule "git:/github.com/taxilian/VimDebugger.git"]
+	path = git:/github.com/taxilian/VimDebugger.git
+	url = git://github.com/spf13/spf13-vim.git
+[submodule "bundle/supertab"]
+	path = bundle/supertab
+	url = git://github.com/ervandew/supertab.git
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = git://github.com/scrooloose/syntastic.git
+[submodule "bundle/tagbar"]
+	path = bundle/tagbar
+	url = git://github.com/majutsushi/tagbar.git
+[submodule "bundle/vim-coffee-script"]
+	path = bundle/vim-coffee-script
+	url = https://github.com/kchmck/vim-coffee-script.git
+[submodule "bundle/vim-cute-python"]
+	path = bundle/vim-cute-python
+	url = git://github.com/ehamberg/vim-cute-python.git
+[submodule "bundle/vim-json"]
+	path = bundle/vim-json
+	url = git://github.com/jakar/vim-json.git
+[submodule "bundle/vim-markdown"]
+	path = bundle/vim-markdown
+	url = git://github.com/plasticboy/vim-markdown.git
+[submodule "bundle/vim-powerline"]
+	path = bundle/vim-powerline
+	url = git://github.com/Lokaltog/vim-powerline.git
