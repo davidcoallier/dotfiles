@@ -2,7 +2,7 @@
 
 # Use it
 
-1. Copy `vimrc` to `~.vimrc`
+1. Copy `vimrc` to `~/.vimrc`
 2. mkdir -p ~/.vim
 3. cp -rf * ~/.vim
 

@@ -58,3 +58,15 @@
 [submodule "bundle/vim-latex"]
 	path = bundle/vim-latex
 	url = git://github.com/jcf/vim-latex.git
+[submodule "bundle/vim-fugitive"]
+	path = bundle/vim-fugitive
+	url = git://github.com/tpope/vim-fugitive.git
+[submodule "bundle/vim-prolog"]
+	path = bundle/vim-prolog
+	url = https://github.com/adimit/prolog.vim
+[submodule "bundle/vim-erlang"]
+	path = bundle/vim-erlang
+	url = git://github.com/jimenezrick/vimerl.git
+[submodule "bundle/matrix-mode"]
+	path = bundle/matrix-mode
+	url = git://github.com/uguu-org/vim-matrix-screensaver.git
